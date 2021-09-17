@@ -1,4 +1,4 @@
-### **Hey there, I'm Sneha Singh** 👋
+### **Hey there, I'm Sneha Singh** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 👨🏻‍💻 About Me
 🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).\
@@ -33,11 +33,11 @@
 </p>
 
 ### 🤝🏻 Want to Connect?
-<p align="center">
-<a href="https://in.linkedin.com/in/snehasingh2001/">
-  <img align="left" alt="Sneha's LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://twitter.com/sneha_0607">
+  <img align="left" alt="Sneha Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://github.com/Sneha0607">
-  <img align="left" alt="Sneha's GitHub" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/snehasingh2001/">
+  <img align="left" alt="Sneha Singh | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=Sneha0607.Sneha0607)
