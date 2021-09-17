@@ -24,7 +24,6 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)
 
-
 ### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/Sneha0607">
@@ -33,14 +32,12 @@
 </a>
 </p>
 
-[![Sneha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sneha0607&theme=react-dark)](https://github.com/Sneha0607)
-
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://in.linkedin.com/in/snehasingh2001/">
-  <img align="left" alt="Sneha's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+  <img align="left" alt="Sneha's LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Sneha0607">
-  <img align="left" alt="Sneha's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+  <img align="left" alt="Sneha's GitHub" width="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
